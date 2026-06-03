@@ -1,0 +1,55 @@
+# LLM
+google-generativeai
+langchain-google-genai
+langchain-groq
+
+# LangChain Core
+langchain
+langchain-core
+langchain-community
+
+# Multi-Agent / Graph Workflows
+langgraph
+
+# Search Tool
+tavily-python
+
+# Web Scraping
+beautifulsoup4
+lxml
+html5lib
+requests
+
+# Environment Variables
+python-dotenv
+
+# Data Validation
+pydantic
+
+# Async Support
+aiohttp
+httpx
+
+# Parsing & Utilities
+tiktoken
+tenacity
+
+# Logging & Monitoring
+rich
+
+# API Server (optional)
+fastapi
+uvicorn
+
+# Notebook Support (optional)
+jupyter
+ipykernel
+
+# Data Handling
+pandas
+numpy
+
+# Type Hints
+typing-extensions
+
+streamlit
